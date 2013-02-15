@@ -1,2 +1,0 @@
-macluky.github.com
-==================
